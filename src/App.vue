@@ -4,6 +4,7 @@ import HeaderComp from './components/HeaderComp.vue';
 import ConsultatsComp from './components/ConsultatsComp.vue';
 import AboutUs from './components/AboutUs.vue';
 import ProjectCom from './components/ProjectCom.vue'
+import TestimonialComp from './components/TestimonialComp.vue'
 
 export default{
   name: 'App',
@@ -12,7 +13,8 @@ export default{
     HeaderComp,
     ConsultatsComp,
     AboutUs,
-    ProjectCom
+    ProjectCom,
+    TestimonialComp
   }
 }
 </script>
@@ -23,6 +25,7 @@ export default{
   <ConsultatsComp/>
   <AboutUs/>
   <ProjectCom/>
+  <TestimonialComp/>
 </template>
 
 <style>
