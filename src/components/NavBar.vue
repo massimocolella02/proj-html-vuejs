@@ -60,8 +60,9 @@ nav ul li{
 }
 nav ul li a{
     text-transform: uppercase;
+    color: #aaaaaa;
 }
-nav ul li a:hover{
+nav ul li:hover a{
     color: white;
 }
 nav ul li:hover{
