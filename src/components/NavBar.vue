@@ -2,7 +2,9 @@
     <nav>
         <div class="container">
             <div class="l-side">
-                <img src="/images/logotype.png" alt="logo">
+                <a href="#">
+                    <img src="/images/logotype.png" alt="logo">
+                </a>
             </div>
             <div class="r-side">
                 <ul>
@@ -56,7 +58,7 @@ nav ul{
 }
 nav ul li{
     margin-right: 15px;
-    line-height: 60px;
+    line-height: 59px;
 }
 nav ul li a{
     text-transform: uppercase;
