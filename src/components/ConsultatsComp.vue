@@ -12,7 +12,7 @@
 
                     <div class="info">
                         <h3>{{ elem.title }}</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint hic facilis quidem debitis aspernatur mollitia repellendus sapiente earum enim? Dolorem corporis officiis iste eligendi delectus sequi dignissimos ducimus enim optio?</p>
+                        <p>When, while lovely valley teems with vapour around meand eridian sun strikes the upper impenetrable foliage of my trees, and but a</p>
                     </div>
                 </div>
             </div>
