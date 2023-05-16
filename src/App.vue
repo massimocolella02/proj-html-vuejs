@@ -5,6 +5,7 @@ import ConsultatsComp from './components/ConsultatsComp.vue';
 import AboutUs from './components/AboutUs.vue';
 import ProjectCom from './components/ProjectCom.vue'
 import TestimonialComp from './components/TestimonialComp.vue'
+import BlogComp from './components/BlogComp.vue';
 
 export default{
   name: 'App',
@@ -14,7 +15,8 @@ export default{
     ConsultatsComp,
     AboutUs,
     ProjectCom,
-    TestimonialComp
+    TestimonialComp,
+    BlogComp
   }
 }
 </script>
@@ -26,6 +28,7 @@ export default{
   <AboutUs/>
   <ProjectCom/>
   <TestimonialComp/>
+  <BlogComp/>
 </template>
 
 <style>
