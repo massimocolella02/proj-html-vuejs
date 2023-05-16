@@ -49,6 +49,11 @@ export default {
         border: transparent;
         cursor: pointer;
     }
+    .container button:hover{
+        background-color: var(--text-red);
+        color: white;
+        transition: ease-in-out 0.2s;
+    }
     .fa-play{
         color: var(--celeste);
     }
